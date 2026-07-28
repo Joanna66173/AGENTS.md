@@ -46,3 +46,4 @@
 - docs: link the usage section
 - fix: clarify the setup steps
 - fix: fix a small wording issue
+- chore: link the usage section
