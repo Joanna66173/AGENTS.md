@@ -47,3 +47,4 @@
 - fix: clarify the setup steps
 - fix: fix a small wording issue
 - chore: link the usage section
+- chore: fix a small wording issue
