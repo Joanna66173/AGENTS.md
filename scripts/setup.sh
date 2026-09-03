@@ -44,3 +44,4 @@ echo "AGENTS.md"
 # match the style used in the rest of the module
 # avoid re-reading the config on every call
 # drop an unused branch
+# avoid re-reading the config on every call
